@@ -22,6 +22,8 @@ class Test {
         int lei = 200;
         int feng = 200;
         int wrong = 0;
+
+        data = 2100;
         System.out.println(str);
     }
 }
