@@ -20,6 +20,7 @@ class Test {
     Test () {
         Byte next = value;
         int lei = 200;
+        int feng = 200;
         System.out.println(str);
     }
 }
