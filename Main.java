@@ -21,6 +21,7 @@ class Test {
         Byte next = value;
         int lei = 200;
         int feng = 200;
+        int data = 333;
         System.out.println(str);
     }
 }
