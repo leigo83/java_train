@@ -5,8 +5,8 @@ public class Main {
     public int ff = 10;;
     public static Test FF = new Test ();
     public static void main(String[] args) {
-	// write your code here
 
+        Test.Inner_test inner_test = FF.new Inner_test();
 
     }
 }
@@ -19,9 +19,20 @@ class Test {
 
     Test () {
         Byte next = value;
-        int lei = 200;
+        int lei = 10;
         int feng = 200;
+        double dd = 10.0;
+        long xx = 100;
+        if (lei == dd) {
+            System.out.println(dd);
+        }
+
         System.out.println(str);
+    }
+
+    class Inner_test {
+        public int x = 10;
+        public int y = 101;
     }
 }
 
