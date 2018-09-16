@@ -27,6 +27,8 @@ class Test {
             System.out.println(dd);
         }
 
+        test;
+
         System.out.println(str);
     }
 
