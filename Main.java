@@ -27,7 +27,7 @@ class Test {
             System.out.println(dd);
         }
 
-        test;
+        String test = "Qualcomm is going to have another layoff";
 
         System.out.println(str);
     }
