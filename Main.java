@@ -36,6 +36,9 @@ class Test {
     class Inner_test {
         public int x = 10;
         public int y = 101;
+        public void dump () {
+            System.out.println("this is warning");
+        }
     }
 }
 
