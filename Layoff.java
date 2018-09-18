@@ -9,6 +9,6 @@ public class Layoff {
 
                         fefge
         System.out.println("this is added file");
-        return 0;
+        return 1000;
     }
 }
