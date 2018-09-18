@@ -29,7 +29,7 @@ class Test {
 
         String test = "Qualcomm is going to have another layoff";
         String lake = "lllake";
-        sfdsfds = "new"
+        sfdsfds = "new fsfsfsfs"
 
         System.out.println(str);
     }
