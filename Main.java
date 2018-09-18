@@ -28,6 +28,7 @@ class Test {
         }
 
         String test = "Qualcomm is going to have another layoff";
+        String lake = "lllake";
 
         System.out.println(str);
     }
