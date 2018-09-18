@@ -7,6 +7,6 @@ public class Layoff {
                 fsfsfsfs
                 dsfsfs
         System.out.println("this is added file");
-        return 0;
+        return 10;
     }
 }
